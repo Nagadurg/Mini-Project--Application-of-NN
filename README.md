@@ -1,7 +1,5 @@
 # Mini-Project--Application-of-NN
 
-
-(Expected the following details in the report )
 ## Project Title:
 Implementation of MLP classifier for Rasins
 ## Project Description :
