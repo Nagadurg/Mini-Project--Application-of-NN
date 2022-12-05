@@ -56,8 +56,11 @@ predictions=mlp.predict(x_test)
 print(predictions)
 ```
 ## Output:
-
-
+![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o2.png)
+![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o3.png)
+![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o4.png)
+![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o5.png)
+![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o6.png)
 ## Advantage :
 Raisins amazing health benefits includes treating anemia, preventing cancer, promoting proper digestion, combating hair loss, treating skin diseases, treating joint pains, regulating body pH level, relieving fever, support eye health, boosting energy level, supporting dental health, and curing insomnia.
 ## Result:
