@@ -24,8 +24,10 @@ area,major axis length,minor axis length,eccentricity,convex area,extent,perimet
 
 8.Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
 ## Program:
-Develped bt:Chevula.Nagadurga
+Develped by:Chevula.Nagadurga
+
 Regno:212221230014
+
 ```
 import pandas as pd
 import numpy as np
@@ -57,11 +59,17 @@ print(predictions)
 ```
 ## Output:
 ![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o2.png)
+
 ![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o3.png)
+
 ![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o4.png)
+
 ![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o5.png)
+
 ![output](https://github.com/Nagadurg/Mini-Project--Application-of-NN/blob/93f87d73eeb2c244a2d5371836bf50680dbe72d6/o6.png)
+
 ## Advantage :
+
 Raisins amazing health benefits includes treating anemia, preventing cancer, promoting proper digestion, combating hair loss, treating skin diseases, treating joint pains, regulating body pH level, relieving fever, support eye health, boosting energy level, supporting dental health, and curing insomnia.
 ## Result:
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
